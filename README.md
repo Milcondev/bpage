@@ -1,4 +1,4 @@
-# paginate 
+# Bpage 
 
 ## Example
 simple example for bpage
