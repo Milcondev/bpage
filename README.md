@@ -41,3 +41,5 @@ const options = {
 }
 ```
 
+# [Support Server](https://discord.gg/GBMUFTgbzJ)
+
